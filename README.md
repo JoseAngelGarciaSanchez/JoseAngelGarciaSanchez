@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Welcome to my GitHub 🌱
 
-### :woman_technologist: About me 
+### :man_technologist: About me 
 
 - I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University :school:
 - I am following apprenticeship program with [IQVIA](https://www.iqvia.com/fr-fr/locations/france) as an apprentice Data Scientist
