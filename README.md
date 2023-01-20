@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Welcome to my GitHub 🌱
+### Welcome to my GitHub ☀️
 
 ### :man_technologist: About me 
 
