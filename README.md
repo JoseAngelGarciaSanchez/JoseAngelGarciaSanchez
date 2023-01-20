@@ -4,7 +4,7 @@
 ### :man_technologist: About me 
 
 - I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University :school:
-- I am following apprenticeship program with [Credit Agricole](https://www.iqvia.com/fr-fr/locations/france) as an apprentice Data Scientist
+- I am following apprenticeship program with [Credit Agricole](https://www.credit-agricole.fr) as an apprentice Data Scientist
 - I’m currently working on a ransomware, a django app and an Airbnb project 🔭
 
 ###  :rocket: Languages and Tools
