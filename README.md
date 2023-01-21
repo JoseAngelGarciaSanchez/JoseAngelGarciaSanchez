@@ -29,7 +29,7 @@
 
 - 📫 Reach me at **pepegarsanz@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Pse1234](https://github.com/Pse1234)
+- 👨‍💻 All of my projects are available at [JAGS](https://github.com/Pse1234)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
