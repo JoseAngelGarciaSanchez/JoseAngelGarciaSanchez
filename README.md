@@ -19,13 +19,13 @@
 
 <p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **Python, Cybersecurity and Technologie**
 
 - 📫 Reach me at **pepegarsanz@gmail.com**
 
 - 👨‍💻 All of my projects are available at [JAGS](https://github.com/Pse1234)
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact **Coffee tastes way better than Chai | Change my mind!**
 
 <h3 align="left">You can find me here 👇</h3>
 <p align="left">
