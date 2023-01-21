@@ -18,7 +18,7 @@
 <a href="https://dev.to/luciengeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luciengeorge" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jagarciasanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciengeorge" height="30" width="40" /></a>
 
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
+**📕 Latest projects [@Pse1234](https://github.com/Pse1234)**
 <!-- BLOG-POST-LIST:START -->
 - [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
 - [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
