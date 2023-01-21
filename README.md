@@ -1,6 +1,3 @@
-## Hi there 👋
-### Welcome to my GitHub ☀️
-
 ### :man_technologist: About me 
 
 - I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University :school:
