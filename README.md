@@ -19,8 +19,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [What to do in Paris?](https://github.com/sarrabenyahia/datamuse)
 - [Predict schizophrenia using brain anatomy](https://github.com/sarrabenyahia/Predict-schizophrenia-using-brain-anatomy)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
