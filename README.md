@@ -10,11 +10,6 @@
 ###  :rocket: Languages and Tools
 <a href="https://www.python.org/"> ![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)</a>  <a href="https://www.linux.org/"> ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a> 
 
-
-### :white_flower: Let's connect
-:email: [Email](pepegarsanz@gmail.com)
-:calling: [LinkedIn](https://www.linkedin.com/in/jagarciasanchez/)
-
 <h3 align="left">You can find me here 👇</h3>
 <p align="left">
 <a href="https://dev.to/luciengeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luciengeorge" height="30" width="40" /></a>
