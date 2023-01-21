@@ -19,13 +19,13 @@
 
 <p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
-- 💬 Ask me about **Python, Cybersecurity and Technologie**
+- 💬 Ask me about **Python, Cybersecurity and Technology**
 
-- 📫 Reach me at **pepegarsanz@gmail.com**
+- I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University 🏫
 
-- 👨‍💻 All of my projects are available at [JAGS](https://github.com/Pse1234)
+- I am following apprenticeship program with [Credit Agricole](https://www.credit-agricole.fr) as an apprentice Data Scientist 👨‍🔬
 
-- ⚡ Fun fact **Coffee tastes way better than Chai | Change my mind!**
+- I’m currently working on a ransomware, a django app and an Airbnb project 🔭
 
 <h3 align="left">You can find me here 👇</h3>
 <p align="left">
