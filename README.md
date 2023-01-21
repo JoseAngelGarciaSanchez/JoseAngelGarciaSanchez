@@ -47,6 +47,3 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
-
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
