@@ -17,13 +17,10 @@
 
   <h1 align="center">Hi 👋, I'm Jose Angel</h1>
 
-<h3 align="center">A young 🤓 data scientins developer from Spain 🇪🇸</h3>
+<h3 align="center">A young 🤓 data scientist from Spain 🇪🇸</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
 <p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
-
-
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
 - 💬 Ask me about **react, vue and gsap**
 
