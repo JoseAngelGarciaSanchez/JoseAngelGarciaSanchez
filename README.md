@@ -11,8 +11,10 @@
 - 🔬 I’m currently working on a ransomware, a django app and an Airbnb project
 
 <h3 align="left">You can find me here 👇</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jagarciasanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciengeorge" height="30" width="40" /></a>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/sarrabenyahia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:benyahiasarra9@gmail.com?subject=Hello%20Sarra,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 **📕 Latest projects [@Pse1234](https://github.com/Pse1234)**
 <!-- BLOG-POST-LIST:START -->
