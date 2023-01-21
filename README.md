@@ -14,4 +14,3 @@
 <p align="left">
 <a href="https://dev.to/luciengeorge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luciengeorge" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jagarciasanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciengeorge" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11234688/lucien-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lucien-george" height="30" width="40" /></a>
