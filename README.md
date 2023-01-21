@@ -1,6 +1,3 @@
-###  :rocket: Languages and Tools
-<a href="https://www.python.org/"> ![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)</a>  <a href="https://www.linux.org/"> ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a> 
-
   <h1 align="center">Hi 👋, I'm Jose Angel</h1>
 
 <h3 align="center">A young 🤓 data scientist from Spain, Welcome to my GitHub! 🇪🇸</h3>
