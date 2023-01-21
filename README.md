@@ -15,17 +15,14 @@
   <h1 align="center">Hi 👋, I'm Jose Angel</h1>
 
 <h3 align="center">A young 🤓 data scientist from Spain, Welcome to my GitHub! 🇪🇸</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
-
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
 - 💬 Ask me about **Python, Cybersecurity and Technology**
 
-- I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University 🏫
+- 🏫 I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University
 
-- I am following apprenticeship program with [Credit Agricole](https://www.credit-agricole.fr) as an apprentice Data Scientist 👨‍🔬
+- 👨‍🔬 I am following apprenticeship program with [Credit Agricole](https://www.credit-agricole.fr) as an apprentice Data Scientist
 
-- I’m currently working on a ransomware, a django app and an Airbnb project 🔭
+- 🔬 I’m currently working on a ransomware, a django app and an Airbnb project
 
 <h3 align="left">You can find me here 👇</h3>
 <p align="left">
