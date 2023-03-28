@@ -18,6 +18,7 @@
 
 **📕 Latest projects [@Pse1234](https://github.com/Pse1234)**
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Inference](https://github.com/pse1234/NLI)
 - [What to do in Paris?](https://github.com/sarrabenyahia/datamuse)
 - [Predict schizophrenia using brain anatomy](https://github.com/sarrabenyahia/Predict-schizophrenia-using-brain-anatomy)
 <!-- BLOG-POST-LIST:END -->
