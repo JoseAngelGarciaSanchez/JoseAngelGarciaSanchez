@@ -8,7 +8,7 @@
 
 - 👨‍🔬 I am following apprenticeship program with [Credit Agricole](https://www.credit-agricole.fr) as an apprentice Data Scientist
 
-- 🔬 I’m currently working on a ransomware, a django app and an Airbnb project
+- 🔬 I’m currently working on Raidium challenge by ENS with MedSAM 
 
 <h3 align="left">You can find me here 👇</h3>
 <p align="center">
