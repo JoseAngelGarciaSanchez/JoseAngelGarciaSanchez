@@ -8,7 +8,7 @@
 
 - 👨‍🔬 I am following apprenticeship program with [Credit Agricole](https://www.credit-agricole.fr) as an apprentice Data Scientist
 
-- 🔬 I’m currently working on Raidium challenge by ENS with MedSAM 
+- 🔬 I’m currently working on [Raidium challenge by ENS](https://challengedata.ens.fr/participants/challenges/105/) with [MedSAM](https://github.com/bowang-lab/MedSAM)
 
 <h3 align="left">You can find me here 👇</h3>
 <p align="center">
