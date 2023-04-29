@@ -16,7 +16,7 @@
   <a href="mailto:pepegarsanz@gmail.com?subject=Hello%20Jose,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**📕 Latest projects [@Pse1234](https://github.com/Pse1234)**
+**Latest projects 🚀**
 <!-- BLOG-POST-LIST:START -->
 - [Natural Language Inference](https://github.com/pse1234/NLI)
 - [What to do in Paris?](https://github.com/sarrabenyahia/datamuse)
