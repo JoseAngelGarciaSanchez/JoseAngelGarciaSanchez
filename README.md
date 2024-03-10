@@ -2,11 +2,11 @@
 
 <h3 align="center">A young 🤓 data scientist from Spain, Welcome to my GitHub! 🇪🇸</h3>
 
-- 💬 Ask me about **Python, Cybersecurity and Technology**
-
-- 🏫 I am graduated Data Scientist from Paris 1 Sorbonne University
+- 💬 Ask me about **Python, Data science and Technology**
 
 - 👨‍🔬 I am working at [Credit Agricole](https://www.credit-agricole.fr) as Data Scientist
+
+- 🏫 I am graduated Data Scientist from Paris 1 Sorbonne University
 
 - 🔬 I’m currently working on [Raidium challenge by ENS](https://challengedata.ens.fr/participants/challenges/105/) with [MedSAM](https://github.com/bowang-lab/MedSAM)
 
