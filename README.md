@@ -16,7 +16,7 @@
 
 **Latest projects 🚀**
 <!-- BLOG-POST-LIST:START -->
-- [Natural Language Inference](https://github.com/pse1234/NLI)
+- [Natural Language Inference](https://github.com/JoseAngelGarciaSanchez/NLI)
 - [What to do in Paris?](https://github.com/sarrabenyahia/datamuse)
 - [Predict schizophrenia using brain anatomy](https://github.com/sarrabenyahia/Predict-schizophrenia-using-brain-anatomy)
 <!-- BLOG-POST-LIST:END -->
