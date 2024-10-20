@@ -7,13 +7,11 @@
 - 👨‍🔬 I am working at [Credit Agricole](https://www.credit-agricole.fr) as Data Scientist
 
 - 🏫 I am graduated Data Scientist from Paris 1 Sorbonne University
-
-- 🔬 I’m currently working on [Raidium challenge by ENS](https://challengedata.ens.fr/participants/challenges/105/) with [MedSAM](https://github.com/bowang-lab/MedSAM)
-
+  
 <h3 align="left">You can find me here 👇</h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jagarciasanchez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pepegarsanz@gmail.com?subject=Hello%20Jose,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jagarsanc@gmail.com?subject=Hello%20Jose,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 **Latest projects 🚀**
