@@ -3,10 +3,6 @@
 <h3 align="center">A young 🤓 data scientist from Spain, Welcome to my GitHub! 🇪🇸</h3>
 
 - 💬 Ask me about **Python, Data science and Technology**
-
-- 👨‍🔬 I am working at [Credit Agricole](https://www.credit-agricole.fr) as Data Scientist
-
-- 🏫 I am graduated Data Scientist from Paris 1 Sorbonne University
   
 <h3 align="left">You can find me here 👇</h3>
 <p align="center">
